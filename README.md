@@ -1,1 +1,2 @@
-https://dev-drippydeer.pantheonsite.io/
+KOROSID.github.io
+
