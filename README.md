@@ -1,2 +1,0 @@
-KOROSID.github.io
-
